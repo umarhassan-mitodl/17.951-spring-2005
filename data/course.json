@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "b49691c4-87ac-d4cf-a656-00fff390b5e2",
+  "instructors": {
+    "content": [
+      "47854d4b-a33e-42fd-163e-8bdaaaa19108",
+      "090f6750-d0ed-0ec1-a364-82e8297973e7",
+      "b846cdfa-27a1-4cc8-890c-34ffd45170b8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a6dd16c5-904a-180c-fda2-a2be33188ca5",
+    "website": "17-951-intelligence-practice-problems-and-prospects-spring-2005"
+  },
+  "course_title": "Intelligence: Practice, Problems and Prospects",
+  "course_description": "This course will explore the organization and functions of the U.S. Intelligence Community, its interaction with national security policymakers, key issues about its workings, and the challenges it faces in defining its future role. The events of 9/11 and the invasion of Iraq have focused new attention on national intelligence, including the most significant reorganization of the community since the National Security Act of 1947. The course will highlight some of the major debates about the role, practices, and problems of national intelligence.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.951",
+  "course_image_thumbnail": {
+    "content": "8bff5bd9-f7db-8777-0cf2-9585efe734ac",
+    "website": "17-951-intelligence-practice-problems-and-prospects-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "8854383b-a8d1-4110-9a0e-aa0f01ae1929",
+  "site_short_id": "17.951-spring-2005",
+  "site_url_path": "courses/17-951-intelligence-practice-problems-and-prospects-spring-2005",
+  "title": "Course Metadata"
+}
