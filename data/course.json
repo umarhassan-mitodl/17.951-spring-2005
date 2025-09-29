@@ -39,6 +39,7 @@
     "website": "17-951-intelligence-practice-problems-and-prospects-spring-2005"
   },
   "course_title": "Intelligence: Practice, Problems and Prospects",
+  "hide_download": true,
   "course_description": "This course will explore the organization and functions of the U.S. Intelligence Community, its interaction with national security policymakers, key issues about its workings, and the challenges it faces in defining its future role. The events of 9/11 and the invasion of Iraq have focused new attention on national intelligence, including the most significant reorganization of the community since the National Security Act of 1947. The course will highlight some of the major debates about the role, practices, and problems of national intelligence.\n",
   "department_numbers": [
     "17"
@@ -49,6 +50,7 @@
     "content": "8bff5bd9-f7db-8777-0cf2-9585efe734ac",
     "website": "17-951-intelligence-practice-problems-and-prospects-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

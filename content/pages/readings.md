@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on required texts and the schedule
   of readings by session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -357,7 +359,7 @@ Knott, Stephen. "Executive Power and the Control of American Intelligence." _Int
 
 Johnson, Loch K. "Intelligence and the Challenge of Collaborative Government." _Intelligence and National Security_ 13, no. 2 (Summer 1998): 177-182.
 
-{{% resource_link "05d5070e-8137-41fe-813f-0d12f993b8b1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heymann, Philip B. {{% resource_link "05d5070e-8137-41fe-813f-0d12f993b8b1" "_Terrorism, Freedom, and Security: Winning Without War_" %}}. Cambridge, MA: MIT Press, 2003, pp. 61-84. ISBN: 9780262083270.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083270) Heymann, Philip B. [_Terrorism, Freedom, and Security: Winning Without War_](https://mitpress.mit.edu/9780262083270). Cambridge, MA: MIT Press, 2003, pp. 61-84. ISBN: 9780262083270.
 
 Jeffrey-Jones, Rhodri. Introduction, Chapter 13, and Conclusion in _The CIA and American Democracy_. 2nd ed. New Haven, CT: Yale University Press, 1998. ISBN: 9780300077377.
 
